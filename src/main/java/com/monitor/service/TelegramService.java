@@ -29,7 +29,7 @@ public class TelegramService {
             } else {
 
                 caption =
-                        rank + " GPU DEAL\n\n" +
+                        rank + "DEAL\n\n" +
                                 "🖥 " + product.getName() +
                                 "\n\n💰 Preço: " + product.getPrice() +
                                 "\n🔗 Ver produto:\n" + product.getLink();
