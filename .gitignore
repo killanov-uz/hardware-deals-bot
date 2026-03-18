@@ -1,0 +1,14 @@
+# Java
+*.class
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Bot files
+price_history.txt
+sent_products.txt
