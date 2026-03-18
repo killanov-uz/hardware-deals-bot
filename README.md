@@ -3,7 +3,15 @@
 A Java-based bot that scans Amazon for **premium hardware deals** and sends real-time alerts via Telegram.
 
 ---
+## 📸 Example
 
+🚨 SUPER DEAL
+
+RTX 4060  
+💰 R$ 1999  
+📉 -28% below average
+
+🔗 https://amazon.com.br/dp/XXXX
 ## 🔥 Features
 
 - 🔎 Scrapes Amazon across multiple categories
@@ -38,3 +46,7 @@ Price Analysis
 Deal Ranking
 ↓
 Telegram Alerts
+```
+## 👨‍💻 Author
+
+André (Killanov) Scarpini
